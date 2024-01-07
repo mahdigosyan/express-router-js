@@ -147,6 +147,7 @@ class RouteGroup {
       return this
     }
   
+    
   
     /**
      * Define namespace for all the routes inside the group.
@@ -163,4 +164,4 @@ class RouteGroup {
     }
   }
   
-  module.exports = RouteGroup;
+  // module.exports = RouteGroup;
