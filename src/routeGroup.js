@@ -164,4 +164,4 @@ class RouteGroup {
     }
   }
   
-  // module.exports = RouteGroup;
+  module.exports = RouteGroup;
